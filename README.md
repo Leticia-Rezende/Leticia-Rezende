@@ -5,7 +5,7 @@
 
 ## Sobre Mim 👩🏻‍💻
 
-Sou formada em Pedagogia, Pós-Graduada em Neurôciênica Educacional, e atualmente estou cursando Engenharia de Software. Uma área bastante desafiadora, para quem ficou 4 anos em Humanas 😅, mas são desafios que estou amando vencer, cada código, por mais simples que seja, é uma grande vitória para mim.
+Sou formada em Pedagogia, Pós-Graduada em Neurôciência Educacional, e atualmente estou cursando Engenharia de Software. Uma área bastante desafiadora, para quem ficou 4 anos em Humanas 😅, mas são desafios que estou amando vencer, cada código, por mais simples que seja, é uma grande vitória para mim.
 Atualmente estou trabalhando como Professora de Pensamento Computacional/Robótica 🤖
 
 ## Linguagens Utilizadas 📈
